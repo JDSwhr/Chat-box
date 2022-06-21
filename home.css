@@ -1,0 +1,27 @@
+button{
+    border-color: green;
+    border-style: dotted;
+    cursor: pointer;
+    color: orangered;
+    width:160px;
+    font-size: 30px;
+    border-radius: 15px;
+    margin-top: 25px;
+}
+button:hover{
+    background-color: green;
+}
+body{
+    background-color: greenyellow;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+}
+.logo{
+    width: 400px;
+	margin-top: 30px;
+	border-radius: 230px;
+    border-color: orange;
+    border-style: solid;
+}
